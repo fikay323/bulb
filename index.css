@@ -1,0 +1,19 @@
+body {
+    user-select: none;
+}
+button {
+    background-color: blue;
+    border: none;
+    padding: 10px 15px;
+    font-weight: bolder;
+    font-size: large;
+    color: white;
+    display: block;
+    margin: auto;
+    border-radius: 7px;
+}
+img {
+    height: 200px;
+    display: block;
+    margin: 20px auto;
+}
